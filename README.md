@@ -1,4 +1,4 @@
-# delivery_time_prediction
+# Deliver Time Prediction
 
 Building a Food Delivery Time Prediction System (like UberEats/JustEat).
 
